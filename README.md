@@ -63,3 +63,7 @@ notification
 
 ## Now actuator endpoint can check by this end point... 
 http://localhost:8082/actuator/health
+
+## check logs
+docker logs notification -f
+
